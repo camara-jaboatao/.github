@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua o src abaixo pela URL da logo oficial da Câmara ou da Coordenação de TI -->
-  <img src="[https://via.placeholder.com/140x140.png?text=CMJG](https://cti.camarajaboatao.pe.gov.br/portal/wp-content/themes/cti-portal/assets/img/cti-logo-negativo.png)" alt="Câmara Municipal de Jaboatão dos Guararapes" width="130" />
+  <img src="https://cti.camarajaboatao.pe.gov.br/portal/wp-content/themes/cti-portal/assets/img/cti-logo-negativo.png" alt="Câmara Municipal de Jaboatão dos Guararapes" width="130" />
 
   <h1>Câmara Municipal de Jaboatão dos Guararapes</h1>
   <p>
